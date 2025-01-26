@@ -1,6 +1,6 @@
 # 16-bit index expansion for Crystal
 
-This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. Based on https://github.com/aaaaaa123456789/pokecrystal16. See https://github.com/pret/pokecrystal for more info on the pokecrystal disassembly.
+This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. Based on https://github.com/aaaaaa123456789/pokecrystal16. See https://github.com/pret/pokecrystal for more info on the pokecrystal disassembly, as well as a ton of tutorials that were invaluable as I was creating this build.
 
 Features in this version include:
 - Many Pokémon from later generations, including regional forms
@@ -11,9 +11,9 @@ Features in this version include:
 - Fairy type
 - A move reminder
 - Full maps for Viridian Forest and Seafoam Islands
-- A list of 99 infinitely reusable TMs (that don't use item slots)
+- A list of 99 infinitely reusable TMs (that use their own indices instead of item indices)
 - Gen 6+ style Exp. All, toggleable from the options menu
-- Starters randomly selected from across the generations
+- Starters randomly selected from across the generations (all starters from gens 1-6, plus Rowlet and Fuecoco)
 - Newer Poké Ball types
 - More bag pockets
 - Standardized marts that gain more items as you progress
