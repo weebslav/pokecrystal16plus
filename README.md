@@ -1,6 +1,6 @@
 # 16-bit index expansion for Crystal
 
-This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. Based on https://github.com/aaaaaa123456789/pokecrystal16. See https://github.com/pret/pokecrystal for more info on the pokecrystal disassembly, as well as a ton of tutorials that were invaluable as I was creating this build.
+This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. Based on https://github.com/aaaaaa123456789/pokecrystal16 and https://github.com/DanielOlivaw/pokecrystal16. See https://github.com/pret/pokecrystal for more info on the pokecrystal disassembly, as well as a ton of tutorials that were invaluable as I was creating this build.
 
 Features in this version include:
 - Many Pokémon from later generations, including regional forms
